@@ -1,9 +1,5 @@
 //----------------------------------------------------- 
 // Title: SortingAlgorithms Class
-// Author: ZEINEDDIN K A ZIDAN
-// ID:99621968516
-// Section: 01
-// Assignment: 02
 // Description: This class implements multiple sorting algorithms.
 //----------------------------------------------------- 
 public class SortingAlgorithms {
